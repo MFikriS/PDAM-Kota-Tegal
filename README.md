@@ -20,6 +20,10 @@ localhost/pdamkotategal/admin
 
 Fitur Website
 
+Mobile Responsive
+
+Ada 2 User : Guest dan Admin
+
 
 Masyarakat melihat informasi deskripsi perusahaan
 
