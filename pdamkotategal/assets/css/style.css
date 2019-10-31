@@ -1,0 +1,184 @@
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-item:hover {
+        color: #4A93FF;
+        background-color: #C6C8FF;
+    }
+
+.navbar {
+  background: #FFFFFF;
+}
+
+.bg-blue{
+	background: #4A93FF;
+}
+
+#navbarSupportedContent{
+	padding-left: 200px;
+}
+
+#coba{
+	padding-left: 50px;
+}
+
+#geser{
+	margin-right: 350px;
+}
+
+
+
+h1{
+	font-family : Oldenburg;
+	font-size: 30;
+	color: #013583;
+}
+
+
+h2{
+	font-family : Oldenburg;
+	font-size : 30;
+	color: #013583;
+}
+
+
+.bg-coba {
+  background-color: #0674e2 !important;
+}
+
+.navbar-inverse{
+ background-color:  #426edd;
+}
+
+@media (max-width: 360px) {
+	.logo {
+		width: 100;
+		height: 68;
+		}
+	.my-sm-0{
+		height: 30;
+		font-size: 11px;
+	}
+	.navbar-toggler {
+		height: 30px;
+	}
+		
+	.navbar-toggler-icon {
+		height: 20px;
+		width: 20px;
+	}
+	.mr-sm-2{
+		height: 30px;
+	}
+	h2 {
+		font-size: 2px;
+		font-family: Oldenburg;
+		margin-left: 80px;
+	}
+	h1 {
+		font-size: 2px;
+		font-family: Oldenburg;
+		margin-top: -64px;
+		margin-left: 100px;
+	}
+}
+
+@media (max-width: 360px) {
+	.logo {
+		width: 100;
+		height: 68;
+		}
+	.my-sm-0{
+		height: 30;
+		font-size: 11px;
+	}
+	.navbar-toggler {
+		height: 30px;
+	}
+		
+	.navbar-toggler-icon {
+		height: 20px;
+		width: 20px;
+	}
+	.mr-sm-2{
+		height: 30px;
+	}
+	h2 {
+		font-size: 2px;
+		font-family: Oldenburg;
+		margin-left: 80px;
+	}
+	h1 {
+		font-size: 2px;
+		font-family: Oldenburg;
+		margin-top: -64px;
+		margin-left: 100px;
+	}
+}
+
+@media (max-width: 375px) {
+	.logo {
+		width: 110;
+		height: 76;
+		}
+		.my-sm-0{
+		height: 30;
+		font-size: 11px;
+	}
+	.navbar-toggler {
+		height: 30px;
+	}
+		
+	.navbar-toggler-icon {
+		height: 20px;
+		width: 20px;
+	}
+	.mr-sm-2{
+		height: 30px;
+	}
+	h2 {
+		font-size: 13;
+		font-family: Oldenburg;
+		margin-left: 80px;
+	}
+	h1 {
+		font-size: 13;
+		font-family: Oldenburg;
+		margin-top: -64px;
+		margin-left: 100px;
+	}
+}
+
+@media (max-width: 414px) {
+	.logo {
+		width: 100;
+		height: 68;
+		}
+	.my-sm-0{
+		height: 30;
+		font-size: 11px;
+	}
+	.navbar-toggler {
+		height: 30px;
+	}
+		
+	.navbar-toggler-icon {
+		height: 20px;
+		width: 20px;
+	}
+	.mr-sm-2{
+		height: 30px;
+	}
+	h2 {
+		font-size: 14;
+		font-family: Oldenburg;
+		margin-left: 80px;
+	}
+	h1 {
+		font-size: 14;
+		font-family: Oldenburg;
+		margin-top: -64px;
+		margin-left: 100px;
+	}
+}
