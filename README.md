@@ -15,4 +15,4 @@ localhost/pdamkotategal
 Admin
 
 
-localhost/admin
+localhost/pdamkotategal/admin
