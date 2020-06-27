@@ -130,11 +130,9 @@
             <div style="overflow-x:auto;">
 
            
-                <!--//36.78.220.116:6101/ws_cek_tagihan?parm_nosr=
-
-                //192.168.1.3:6101/ws_cek_tagihan?parm_nosr -->
+                
 <?php  
-	$sumber = 'http://36.78.220.116:6101/ws_cek_tagihan?parm_nosr='.$_POST["no"];
+	$sumber = ';
     $konten = file_get_contents($sumber);
     $json_data = json_decode($konten, true);
     
